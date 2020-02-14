@@ -1,0 +1,1 @@
+# This is my Laravel Crud Application where i used Ajax with mysql database and bootstrap
